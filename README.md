@@ -6,4 +6,5 @@ You can give style to your notes too, like make it larger or smaller, change the
 
 ## How can i run this?
 > Go to Text-Editor/src/main/java/org/example
+
 > run Main.java
