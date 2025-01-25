@@ -8,3 +8,6 @@ You can give style to your notes too, like make it larger or smaller, change the
 > Go to Text-Editor/src/main/java/org/example
 
 > run Main.java
+
+
+### This Project Belongs to Bro-Code
